@@ -1,0 +1,26 @@
+<annotation>
+	<folder>salida</folder>
+	<filename>scene1__4cf70065-eb18-42c1-a9c0-c9db6176d6d8.jpg</filename>
+	<path>salida/scene1__4cf70065-eb18-42c1-a9c0-c9db6176d6d8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>535</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>escopeta.png</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>300</ymin>
+			<xmax>338</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

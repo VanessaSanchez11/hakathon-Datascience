@@ -1,0 +1,26 @@
+<annotation>
+	<folder>salida</folder>
+	<filename>scene3__b48280ae-e1fb-4d1a-817a-b540c6761570.jpg</filename>
+	<path>salida/scene3__b48280ae-e1fb-4d1a-817a-b540c6761570.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun.png</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>102</ymin>
+			<xmax>205</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

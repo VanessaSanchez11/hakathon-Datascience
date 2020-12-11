@@ -1,0 +1,26 @@
+<annotation>
+	<folder>escopetaImages</folder>
+	<filename>scene4__90d0687e-d324-42bb-8af2-0dc027d6d95c.jpg</filename>
+	<path>escopetaImages/scene4__90d0687e-d324-42bb-8af2-0dc027d6d95c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>escopeta.png</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>677</xmin>
+			<ymin>526</ymin>
+			<xmax>862</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+</annotation>
