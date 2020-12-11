@@ -12,6 +12,6 @@ objects: fotos de las armas
 salida: fotos generadas con flip de las pistolas
 escopetaImages: fotos generadas con flip de las escopetas.
 
-2.En la carpeta Hackaton esta el archivo del codigo de clasificacion con poca catidad de datos y sus repectivas carpetas con imagenes
+2.En la carpeta Hackaton esta el archivo del codigo de clasificacion con poca catidad de datos y sus repectivas carpetas con imagenes.
 3.En la carpeta hackatonFlip esta el el archivo del codigo de clasificacion con todas las fotos generadas por flip.
 
